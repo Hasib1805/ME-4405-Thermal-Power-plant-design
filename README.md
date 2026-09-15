@@ -1,8 +1,3 @@
-# ME 4405 Modular OOP Rankine Cycle — Updated
-
-This version makes the component-level and whole-cycle first- and second-law
-analysis explicit.
-
 ## Main OOP structure
 
 ```text
