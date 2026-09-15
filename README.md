@@ -1,4 +1,4 @@
-# ME 4405 Regenerative Rankine Cycle — C++ OOP Version
+# ME 4405 Powerplant Design Project — C++ OOP Version
 
 This is a C++17 object-oriented conversion of the modular ME 4405 Rankine-cycle project.
 
